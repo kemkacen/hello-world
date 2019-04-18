@@ -1,4 +1,4 @@
-# hello-world
+﻿# hello-world
 ilk denemem
 değişiklikler
 11222
@@ -6,5 +6,8 @@ birşeyler yapıyorum şimdi
 lglfgldfg
 khs
 
-bşka deşiklikler
+222
 yenileri
+
+11111
+777
